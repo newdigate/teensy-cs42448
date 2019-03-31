@@ -6,8 +6,9 @@ Based on discussion from [pjrc forum](https://forum.pjrc.com/threads/41371-Quad-
 
 # Work-in-progress
 * This circuit has not been produced, verified or reviewed. 
-* still need to ~~add~~ verify the CAT811T to the circuit. 
-* I've used 4 stereo input channels instead of 3. Im not sure if the extra 2 input channels will be available in the TDM stream.  
+* verify if decoupling caps for VA should be before or after the ferrite bead.
+* verify if CAT811T reset is wired correctly. 
+* verify if PIN1 / CS is setup correctly with two resistors and solderable pad options. 
 * Please feel free to suggest corrections, improvements, raise issues, etc.
 
 # circuits
