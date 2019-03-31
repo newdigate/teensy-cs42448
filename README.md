@@ -5,7 +5,7 @@ Based on discussion from [pjrc forum](https://forum.pjrc.com/threads/41371-Quad-
 * reference pcb available from [oshpark project](https://oshpark.com/shared_projects/2Yj6rFaW)
 
 # Work-in-progress
-* This circuit has not been varified or reviewed. 
+* This circuit has not been verified or reviewed. 
 * Please feel free to suggest corrections, improvements, raise issues, etc.
 
 # circuits
