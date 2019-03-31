@@ -1,8 +1,12 @@
 # connecting teensy 3.6 mcu to cs42448
-Eagle schematic for [cs42448](https://statics.cirrus.com/pubs/proDatasheet/CS42448_F5.pdf) codec + teensy 3.6 (with passive filters)
+Eagle schematic for [cs42448](https://statics.cirrus.com/pubs/proDatasheet/CS42448_F5.pdf) codec + [teensy 3.6](https://www.pjrc.com/store/teensy36.html) (with passive filters)
 
-Based on circuit description from Paul Stoffregen [here](https://forum.pjrc.com/threads/41371-Quad-channel-output-on-Teensy-3-6?p=138969&viewfull=1#post138969)
+Based on discussion from [pjrc forum](https://forum.pjrc.com/threads/41371-Quad-channel-output-on-Teensy-3-6) about circuit  described [here](https://forum.pjrc.com/threads/41371-Quad-channel-output-on-Teensy-3-6?p=138969&viewfull=1#post138969)
 * reference pcb available from [oshpark project](https://oshpark.com/shared_projects/2Yj6rFaW)
+
+# Work-in-progress
+* This circuit has not been varified or reviewed. 
+* Please feel free to suggest corrections, improvements, raise issues, etc.
 
 # circuits
 
