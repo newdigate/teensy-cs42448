@@ -5,8 +5,8 @@ Based on discussion from [pjrc forum](https://forum.pjrc.com/threads/41371-Quad-
 * reference pcb available from [oshpark project](https://oshpark.com/shared_projects/2Yj6rFaW)
 
 # Work-in-progress
-* This circuit has not been verified or reviewed. 
-* still need to add the CAT811T to the circuit. 
+* This circuit has not been produced, verified or reviewed. 
+* still need to ~~add~~ verify the CAT811T to the circuit. 
 * I've used 4 stereo input channels instead of 3. Im not sure if the extra 2 input channels will be available in the TDM stream.  
 * Please feel free to suggest corrections, improvements, raise issues, etc.
 
