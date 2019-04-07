@@ -32,3 +32,6 @@ Based on discussion from [pjrc forum](https://forum.pjrc.com/threads/41371-Quad-
 
 ## audio output module (ST_OUT)
 ![cs42448](/images/output.png)
+
+## artist impression of posible eurorack module 
+![eurorack panel](images/teensy-eurorack-cs42448.jpg)
