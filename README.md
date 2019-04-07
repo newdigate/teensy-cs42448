@@ -16,7 +16,7 @@ Based on discussion from [pjrc forum](https://forum.pjrc.com/threads/41371-Quad-
 # circuits
 
 ## codec
-* 4 stereo inputs 
+* 3 stereo inputs 
   * non-differential inputs
   * passive input filters
 * 4 stereo outputs (using single-ended outputs)
